@@ -160,7 +160,7 @@ class Start:
         "High:Lead($0) | Copper($5) | Silver($10) | Gold($50)"\
         ""\
         "If each box contains gold, you earn $30(low stakes). If they contained " \
-        "copper, silver and gold, you will recieve $13 (1 + 2 + 10) and so on."
+        "copper, silver and gold, you will receive $13 (1 + 2 + 10) and so on."
         get_help.help_text.configure(text=help_text)
 
 
